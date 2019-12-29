@@ -1,0 +1,44 @@
+<resources>
+    <string-array name="packTypes">
+        <item >choose your package type</item>
+        <item>Envelope</item>
+        <item>Small package</item>
+        <item>Big package</item>
+    </string-array>
+
+    <string-array name="packWeight">
+        <item >choose your package weight</item>
+        <item>between 0g to 500g</item>
+        <item>between 500g to 1k</item>
+        <item>between 1k to 5k</item>
+        <item>between 5k to 20k</item>
+    </string-array>
+
+    <string-array name="status">
+        <item >choose your package status</item>
+        <item >sent</item>
+        <item>offered</item>
+        <item>on the way</item>
+        <item>received</item>
+    </string-array>
+
+    <string name="app_name">DBB</string>
+    <string name="envelope">envelope</string>
+    <string name="small_package">Small package</string>
+    <string name="big_package">Big package</string>
+    <string name="between_0_and_500">Between 0 and 500 grams</string>
+    <string name="between_500_grams_and_1_kg">Between 500 grams and 1 kg</string>
+    <string name="between_1_and_5_kg">Between 1 and 5 kg</string>
+    <string name="between_5_and_20_kg">Between 5 and 20 kg</string>
+    <string name="package_type">Package type</string>
+    <string name="is_the_package_fragile">Is the package fragile?</string>
+    <string name="package_weight">Package weight</string>
+    <string name="enter_the_recipient_name">Enter the recipient name</string>
+    <string name="enter_the_recipients_address">Enter the recipient\'s address</string>
+    <string name="delivery_date">Pick a delivery date</string>
+    <string name="date_received">Pick received date</string>
+    <string name="phone_number">Phone number</string>
+    <string name="email">Email</string>
+    <string name="status">Status</string>
+    <string name="delivery_name">Delivery name</string>
+</resources>
